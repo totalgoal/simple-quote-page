@@ -1,4 +1,13 @@
-body{
-background-image: url('https://raw.githubusercontent.com/CodeBerrySchool/simple-quote-page/master/assets/freedom.jpg');
-background-size: cover;
+body {
+  
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: url('assets/freedom.jpg') no-repeat center;
+  background-size: cover;
+  display: flex;
+}
+
+p {
+    text-align: center;
 }
